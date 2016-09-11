@@ -1,0 +1,130 @@
+Downloading/unpacking bs4
+  Getting page http://pypi.python.org/simple/bs4
+  URLs to search for versions for bs4:
+  * http://pypi.python.org/simple/bs4/
+  Getting page http://pypi.python.org/simple/bs4/
+  Analyzing links from page https://pypi.python.org/simple/bs4/
+    Found link https://pypi.python.org/packages/10/ed/7e8b97591f6f456174139ec089c769f89a94a1a4025fe967691de971f314/bs4-0.0.1.tar.gz#md5=fe7e51587ac3b174608f3c4f8bd893ac (from https://pypi.python.org/simple/bs4/), version: 0.0.1
+    Found link https://pypi.python.org/packages/50/fe/c4bf5083af20ec85ac5d278dfd12a9756724100c308b7bdccbaa7cbf5715/bs4-0.0.0.tar.gz#md5=c1b62a2b9f2987d7f949f1392a82518f (from https://pypi.python.org/simple/bs4/), version: 0.0.0
+  Using version 0.0.1 (newest of versions: 0.0.1, 0.0.0)
+  Downloading bs4-0.0.1.tar.gz
+  Downloading from URL https://pypi.python.org/packages/10/ed/7e8b97591f6f456174139ec089c769f89a94a1a4025fe967691de971f314/bs4-0.0.1.tar.gz#md5=fe7e51587ac3b174608f3c4f8bd893ac (from https://pypi.python.org/simple/bs4/)
+  Running setup.py egg_info for package bs4
+    running egg_info
+    creating pip-egg-info/bs4.egg-info
+    writing requirements to pip-egg-info/bs4.egg-info/requires.txt
+    writing pip-egg-info/bs4.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/bs4.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/bs4.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/bs4.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/bs4.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/bs4.egg-info/SOURCES.txt'
+  Source in ./build/bs4 has version 0.0.1, which satisfies requirement bs4
+Downloading/unpacking beautifulsoup4 (from bs4)
+  Getting page http://pypi.python.org/simple/beautifulsoup4
+  URLs to search for versions for beautifulsoup4 (from bs4):
+  * http://pypi.python.org/simple/beautifulsoup4/
+  Getting page http://pypi.python.org/simple/beautifulsoup4/
+  Analyzing links from page https://pypi.python.org/simple/beautifulsoup4/
+    Found link https://pypi.python.org/packages/1a/7c/d7709ccd0657a6d203ff60a431f0470a6c4ec0b377eef64e8b4a23abb16d/beautifulsoup4-4.0.5.tar.gz#md5=39fb84efc57618551de88f015f362721 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.0.5
+    Skipping link https://pypi.python.org/packages/1f/da/4b0d439054fd6b22fa121e0ac672fd8f34f6cce4f375dfd13e955b89306d/beautifulsoup4-4.5.1-py3-none-any.whl#md5=e47bb70343d45a033a85aca3053f08db (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/26/79/ef9a8bcbec5abc4c618a80737b44b56f1cb393b40238574078c5002b97ce/beautifulsoup4-4.4.1.tar.gz#md5=8fbd9a7cac0704645fa20d1419036815 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.4.1
+    Found link https://pypi.python.org/packages/28/fa/69128a30854bcae479a9a09737e489b6e6e6b7d2cf5898ddf7b2f49bf143/beautifulsoup4-4.5.0.tar.gz#md5=2b3805e0078a2033b269ecea2403acf1 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.5.0
+    Found link https://pypi.python.org/packages/30/bd/5405ba01391d06646de9ec90cadeb3893fa355a06438966afff44531219a/beautifulsoup4-4.3.2.tar.gz#md5=b8d157a204d56512a4cc196e53e7d8ee (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.3.2
+    Skipping link https://pypi.python.org/packages/33/62/f3e97eaa87fc4de0cb9b8c51d253cf0df621c6de6b25164dcbab203e5ff7/beautifulsoup4-4.4.1-py2-none-any.whl#md5=219f711e7a0b2cce14d362843d095f56 (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/42/10/466c8947b9b8bd99440662649addfc92e2ad5f4b548de0a6b36f535d0db0/beautifulsoup4-4.5.0-py3-none-any.whl#md5=21db5f32e3efea52efd2802891c4ea5b (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/42/53/746967092a88fdcc9691dba02eb081a1932e7c5c390884244612e775b963/beautifulsoup4-4.1.2.tar.gz#md5=ece5800467c66cf635c939c23a2a25a8 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.1.2
+    Found link https://pypi.python.org/packages/56/d8/351bf4dec2658cec9ee22589e4385e89e90eda04a79b6795625b63a7030d/beautifulsoup4-4.4.0.tar.gz#md5=63d1f33e6524f408cb6efbc5da1ae8a5 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.4.0
+    Skipping link https://pypi.python.org/packages/63/05/e1b733dc34fce994954c06bd198486c1becc2839d64ac1747424d49e8a35/beautifulsoup4-4.4.0-py3-none-any.whl#md5=e8dbfaa26dd7fc45115762853579f9fd (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/63/a4/969a5ce4e2fd7679a532d27173d5ba2a4c25c3c074a3485dc295c1328338/beautifulsoup4-4.3.0.tar.gz#md5=8d5d2e6747bcc4e1ead17a30e71d9507 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.3.0
+    Found link https://pypi.python.org/packages/6f/be/99dcf74d947cc1e7abef5d0c4572abcb479c33ef791d94453a8fd7987d8f/beautifulsoup4-4.0.1.tar.gz#md5=dff86f956bc6dfe62416fac7a2105d3e (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.0.1
+    Found link https://pypi.python.org/packages/86/ea/8e9fbce5c8405b9614f1fd304f7109d9169a3516a493ce4f7f77c39435b7/beautifulsoup4-4.5.1.tar.gz#md5=994abd90e691beaf7d42c00ffb2f3a67 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.5.1
+    Found link https://pypi.python.org/packages/8c/f3/e0e62c314c6f93f306415eec3fb1b665a710dc492879709c027db051db9d/beautifulsoup4-4.1.3.tar.gz#md5=f1481ed77336de77a2d8e5b061b6ad62 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.1.3
+    Found link https://pypi.python.org/packages/92/74/06975aeb61298c942bc4fea795f75e8ff572c37e7315701e995a59fc159f/beautifulsoup4-4.1.0.tar.gz#md5=771b7d2dd2b6874eb70fc23a6eaa0929 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.1.0
+    Skipping link https://pypi.python.org/packages/98/1c/a9aed2839e7181adc204e960c46b1c10ff6ef34f560c8987f0a0303eae73/beautifulsoup4-4.5.0-py2-none-any.whl#md5=da8b52eda2ce36198426372f69eb1862 (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/9d/c8/cd70aabb46af8f30ed83c15287c3d8b1455ba7ee923b03870ee0cdb6ec4f/beautifulsoup4-4.4.0-py2-none-any.whl#md5=c108fc02b9b31bc81f42bc90768edd66 (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/a0/75/db36172ea767dd2f0c9817a99e24f7e9b79c2ce63eb2f8b867284cc60daf/beautifulsoup4-4.0.2.tar.gz#md5=296aec323e1a052a66fafb11687e289e (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.0.2
+    Found link https://pypi.python.org/packages/b3/7b/2769c8522f43cd5f19c57c81d801f95bfcb7aad1c566e43c504596d8d5e4/beautifulsoup4-4.0.4.tar.gz#md5=0aac5d47fdd230c14aed287fb10aa5ca (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.0.4
+    Found link https://pypi.python.org/packages/b3/fe/6888f755c0b9f66d4cc1f9ee0077a613a09e211acca3242a7335ffe7ed06/beautifulsoup4-4.2.0.tar.gz#md5=478775496afea4e5e4aa5dff4ac90a9b (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.2.0
+    Found link https://pypi.python.org/packages/cd/b3/57367f3314a27340596f6b189bf0b3f923413e5614e66d47bd4ff8561090/beautifulsoup4-4.1.1.tar.gz#md5=c442de1156cbc69447972df2b6a86497 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.1.1
+    Skipping link https://pypi.python.org/packages/cf/69/9abfdab06490af5e0233bcebe3f617ec128486d94ea987ad4f77b9332eef/beautifulsoup4-4.4.1-py3-none-any.whl#md5=2b5c64ab9baa6eedb9337cc2a6a463fb (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/da/09/1c69ea3c0ea7ea5618fadda3fddf6164a5c2ea7d06170776583e044b35a2/beautifulsoup4-4.0.3.tar.gz#md5=237b2de85c7d3004775f74d64085630b (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.0.3
+    Skipping link https://pypi.python.org/packages/dc/27/8919b7a505b00f410c1c113c6c93b3253784375797976272e4198f4e455a/beautifulsoup4-4.5.1-py2-none-any.whl#md5=0000d92f11b0578c111ae5bf3f86933e (from https://pypi.python.org/simple/beautifulsoup4/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/df/b8/30ea521e7a852202445b30660df5981b94acfeccda15d2bc5a03d97b500a/beautifulsoup4-4.2.1.tar.gz#md5=612dec037aff94645888c6fd3e4d0b9a (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.2.1
+    Found link https://pypi.python.org/packages/e8/fa/8d4ed865c0d9d93d92635ae07ed14e00088ec183cbdf3164a1bb1dc02c2b/beautifulsoup4-4.3.1.tar.gz#md5=77f7a789b171ce6d3e64a2199c711654 (from https://pypi.python.org/simple/beautifulsoup4/), version: 4.3.1
+  Using version 4.5.1 (newest of versions: 4.5.1, 4.5.0, 4.4.1, 4.4.0, 4.3.2, 4.3.1, 4.3.0, 4.2.1, 4.2.0, 4.1.3, 4.1.2, 4.1.1, 4.1.0, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1)
+  Downloading from URL https://pypi.python.org/packages/86/ea/8e9fbce5c8405b9614f1fd304f7109d9169a3516a493ce4f7f77c39435b7/beautifulsoup4-4.5.1.tar.gz#md5=994abd90e691beaf7d42c00ffb2f3a67 (from https://pypi.python.org/simple/beautifulsoup4/)
+  Running setup.py egg_info for package beautifulsoup4
+    /usr/languages/python/2.6/lib/python2.6/distutils/dist.py:266: UserWarning: Unknown distribution option: 'use_2to3'
+      warnings.warn(msg)
+    running egg_info
+    creating pip-egg-info/beautifulsoup4.egg-info
+    writing requirements to pip-egg-info/beautifulsoup4.egg-info/requires.txt
+    writing pip-egg-info/beautifulsoup4.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/beautifulsoup4.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/beautifulsoup4.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/beautifulsoup4.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/beautifulsoup4.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/beautifulsoup4.egg-info/SOURCES.txt'
+  Source in ./build/beautifulsoup4 has version 4.5.1, which satisfies requirement beautifulsoup4 (from bs4)
+Installing collected packages: beautifulsoup4, bs4
+  Running setup.py install for bs4
+    Running command /usr/languages/python/2.6/bin/python -c "import setuptools; __file__='/home/shariq/nitsri/nitnews/build/bs4/setup.py'; execfile('/home/shariq/nitsri/nitnews/build/bs4/setup.py')" install --single-version-externally-managed --record /tmp/pip-W2qJ0g-record/install-record.txt --install-headers /home/shariq/nitsri/nitnews/lib/include
+    running install
+    running build
+    running install_egg_info
+    running egg_info
+    writing requirements to bs4.egg-info/requires.txt
+    writing bs4.egg-info/PKG-INFO
+    writing top-level names to bs4.egg-info/top_level.txt
+    writing dependency_links to bs4.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'bs4.egg-info/SOURCES.txt'
+    writing manifest file 'bs4.egg-info/SOURCES.txt'
+    Copying bs4.egg-info to /usr/local/lib/python2.6/site-packages/bs4-0.0.1-py2.6.egg-info
+    error: /usr/local/lib/python2.6/site-packages/bs4-0.0.1-py2.6.egg-info: Permission denied
+    Complete output from command /usr/languages/python/2.6/bin/python -c "import setuptools; __file__='/home/shariq/nitsri/nitnews/build/bs4/setup.py'; execfile('/home/shariq/nitsri/nitnews/build/bs4/setup.py')" install --single-version-externally-managed --record /tmp/pip-W2qJ0g-record/install-record.txt --install-headers /home/shariq/nitsri/nitnews/lib/include:
+    running install
+
+running build
+
+running install_egg_info
+
+running egg_info
+
+writing requirements to bs4.egg-info/requires.txt
+
+writing bs4.egg-info/PKG-INFO
+
+writing top-level names to bs4.egg-info/top_level.txt
+
+writing dependency_links to bs4.egg-info/dependency_links.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'bs4.egg-info/SOURCES.txt'
+
+writing manifest file 'bs4.egg-info/SOURCES.txt'
+
+Copying bs4.egg-info to /usr/local/lib/python2.6/site-packages/bs4-0.0.1-py2.6.egg-info
+
+error: /usr/local/lib/python2.6/site-packages/bs4-0.0.1-py2.6.egg-info: Permission denied
+
+----------------------------------------
+Command /usr/languages/python/2.6/bin/python -c "import setuptools; __file__='/home/shariq/nitsri/nitnews/build/bs4/setup.py'; execfile('/home/shariq/nitsri/nitnews/build/bs4/setup.py')" install --single-version-externally-managed --record /tmp/pip-W2qJ0g-record/install-record.txt --install-headers /home/shariq/nitsri/nitnews/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/site-packages/pip-0.4-py2.6.egg/pip.py", line 274, in main
+    self.run(options, args)
+  File "/usr/local/lib/python2.6/site-packages/pip-0.4-py2.6.egg/pip.py", line 433, in run
+    requirement_set.install(install_options)
+  File "/usr/local/lib/python2.6/site-packages/pip-0.4-py2.6.egg/pip.py", line 2082, in install
+    requirement.install(install_options)
+  File "/usr/local/lib/python2.6/site-packages/pip-0.4-py2.6.egg/pip.py", line 1573, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/local/lib/python2.6/site-packages/pip-0.4-py2.6.egg/pip.py", line 3643, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/languages/python/2.6/bin/python -c "import setuptools; __file__='/home/shariq/nitsri/nitnews/build/bs4/setup.py'; execfile('/home/shariq/nitsri/nitnews/build/bs4/setup.py')" install --single-version-externally-managed --record /tmp/pip-W2qJ0g-record/install-record.txt --install-headers /home/shariq/nitsri/nitnews/lib/include failed with error code 1
