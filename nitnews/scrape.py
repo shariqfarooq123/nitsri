@@ -15,7 +15,7 @@ root_link="www.nitsri.net/"
 
 for li in lies:
     link_type=li.a.get('href').split('.')[-1]
-    news_container.append({'type':link_type,'headline':str((li.find(class_="news_headline").text).encode('ascii','ignore').decode('ascii')),'text':str((li.find(class_="news_text").text).encode('ascii','ignore').decode('ascii')),'link':root_link+str((li.a.get('href').encode('ascii','ignore').decode('ascii'))),'age':str(li.get('class')[0].split('_')[0])})
+    news_container.append({'type':str(link_type),'headline':str((li.find(class_="news_headline").text).encode('ascii','ignore').decode('ascii')),'text':str((li.find(class_="news_text").text).encode('ascii','ignore').decode('ascii')),'link':root_link+str((li.a.get('href').encode('ascii','ignore').decode('ascii'))),'age':str(li.get('class')[0].split('_')[0])})
     #print("headline %d: "%count +(li.find(class_="news_headline").text))
     #print("text: "+(li.find(class_="news_text").text))
     count+=1
