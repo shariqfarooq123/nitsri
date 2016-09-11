@@ -23,7 +23,7 @@ def get_news_json():
         
     
     #Encode to json
-    j_obj = json.dumps(news_container)
+    j_obj = json.dumps({"hey":"hello"})
     
     
     return j_obj
