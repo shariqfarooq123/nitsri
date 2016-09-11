@@ -19,7 +19,7 @@ for li in lies:
     #print("headline %d: "%count +(li.find(class_="news_headline").text))
     #print("text: "+(li.find(class_="news_text").text))
     count+=1
-    print(news_container)
+    
 
 #Encode to json
 j_obj = json.dumps(news_container)
