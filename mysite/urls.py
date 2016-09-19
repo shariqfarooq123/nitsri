@@ -17,7 +17,7 @@ from django.conf.urls.defaults import url,include
 from django.contrib import admin
 
 
-urlpatterns = [
-    url(r'^admin/', include('admin.site.urls')),
-    url(r'^nitnews/',include('nitnews.urls'))
-]
+urlpatterns = patterns('',
+    (r'^admin/', 'admin.site.urls'),
+    (r'^nitnews/','nitnews.urls'),
+)
