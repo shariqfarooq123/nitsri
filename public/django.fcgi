@@ -1,5 +1,8 @@
 #!/usr/bin/eval PYTHONPATH=/home/shariq/.local python
 import os, sys
+import site
+
+site.addsitedir("/home/shariq/.local")
  
 _PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, _PROJECT_DIR)
