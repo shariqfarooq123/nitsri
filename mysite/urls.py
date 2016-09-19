@@ -17,6 +17,6 @@ from django.conf.urls.defaults import url,include
 
 
 urlpatterns = [
-   # url(r'^admin/', admin.site.urls),
+    url(r'^admin/', admin.site.urls),
     url(r'^nitnews/',include('nitnews.urls'))
 ]
